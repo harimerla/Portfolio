@@ -14,10 +14,7 @@ import {
   Card,
   CardBody,
   Badge,
-  List,
-  ListItem,
   Flex,
-  useColorModeValue,
   IconButton,
   Tooltip,
   Spinner,
@@ -229,7 +226,6 @@ const Portfolio: React.FC = () => {
     null
   );
   const [loading, setLoading] = useState<boolean>(true);
-  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -260,16 +256,6 @@ const Portfolio: React.FC = () => {
           <Spinner size="xl" color="#60A5FA" thickness="4px" />
           <Text color="white">Loading portfolio...</Text>
         </VStack>
-      </Flex>
-    );
-  }
-
-  if (error) {
-    return (
-      <Flex minH="100vh" align="center" justify="center" bg="#0A0F1E">
-        <Text color="red.500" fontSize="xl">
-          Error: {error}
-        </Text>
       </Flex>
     );
   }
