@@ -1,0 +1,1735 @@
+{
+    "sys": {
+        "type": "Array"
+    },
+    "total": 27,
+    "skip": 0,
+    "limit": 100,
+    "items": [
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "xPwErfp6tmzglC1JZ6Aka",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:52:58.506Z",
+                "updatedAt": "2025-02-05T03:52:58.506Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 2,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "achievement"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "description": "50-day LeetCode streak badge in 2024\n"
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "3mlXuFwVKyGkmskfULk0zg",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:52:46.717Z",
+                "updatedAt": "2025-02-05T03:52:46.717Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 2,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "achievement"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "description": "React Essentials certificate on LinkedIn\n"
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "29niLNqkWp51t7CJEe7xMm",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:52:34.833Z",
+                "updatedAt": "2025-02-05T03:52:34.833Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 2,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "achievement"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "description": "React 18 certificate from CodeWithMosh\n"
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "kVqcxrRfewS9O5fmSxjZk",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:52:24.439Z",
+                "updatedAt": "2025-02-05T03:52:24.439Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 2,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "achievement"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "description": "Best Team Award at TCS in 2020\n"
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "1WEB1F5lrX80Dff0WGaHM6",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:52:14.854Z",
+                "updatedAt": "2025-02-05T03:52:14.854Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 2,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "achievement"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "description": "Won weekly data analysis hackathon at TCS\n"
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "5sfoVR1wg2R20A9VBnM5bz",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:52:05.647Z",
+                "updatedAt": "2025-02-05T03:52:05.647Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 2,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "achievement"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "description": "Presented GeneTerrain WebGPU poster at CCTS Symposium 2023 in Biloxi\n"
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "1gIKNsYr2zfjjphSq4tlXM",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:49:03.947Z",
+                "updatedAt": "2025-02-05T03:49:03.947Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 5,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "education"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "degree": "Bachelor's degree in Computer Science Engineering",
+                "institution": "KL University",
+                "location": "Guntur, TS, India",
+                "coursework": [
+                    "C",
+                    "Data Structures",
+                    "JAVA",
+                    "Database Management"
+                ]
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "2vqDzMrNl59Z6uVqYN8aZc",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:48:27.691Z",
+                "updatedAt": "2025-02-05T03:48:27.691Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 5,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "education"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "degree": "Master's degree in Data Science",
+                "institution": "University of Alabama at Birmingham",
+                "location": "Birmingham, AL, US",
+                "coursework": [
+                    "Machine Learning",
+                    "Advanced Algorithms",
+                    "Database Systems",
+                    "Deep Learning"
+                ]
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "6MLdU6LtUl8ryCiyIlF0Av",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:47:46.271Z",
+                "updatedAt": "2025-02-05T03:47:46.271Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 3,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "project"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "title": "Language Prediction",
+                "description": "Project to predict language type using Python, Django, NLP, TFIDF and Sklearn\n",
+                "link": "https://github.com/harimerla/language-detection/"
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "Rto7VOu0LJEksp2bPNX3k",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:47:21.499Z",
+                "updatedAt": "2025-02-05T03:47:21.499Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 3,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "project"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "title": "MovieHub",
+                "description": "Dynamic website for movie information using HTML, CSS, JavaScript, REST API and React\n",
+                "link": "https://github.com/harimerla/MovieHub-React/tree/main"
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "56hnrKl3uNYdOsBpXwRz91",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:46:56.365Z",
+                "updatedAt": "2025-02-05T03:46:56.365Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 4,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "project"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "title": "SavingsGuru",
+                "description": "Flask web application for analyzing user spending habits, built during UA 24-hour hackathon\n",
+                "link": "https://github.com/harimerla/UAHackathon24"
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "7w7FcStLuDhNnyxdNVn7mt",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:46:26.975Z",
+                "updatedAt": "2025-02-05T03:46:26.975Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 4,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "project"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "title": "Comedian ChatBot",
+                "description": "AI Assistant for humor generation using Langchain, OpenAI, Streamlit, and HuggingFace Spaces\n",
+                "link": "https://langchainq-abot.onrender.com/"
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "7HMDCkVvJXNmkawaGcDsqY",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:45:59.902Z",
+                "updatedAt": "2025-02-05T03:45:59.902Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 4,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "project"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "title": "Clinical Data Insights",
+                "description": "RAG model using Flask, React, LangChain, Firebase, and OpenAI for patient records analysis\n",
+                "link": "https://github.com/harimerla/Curanostics-UI"
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "kCoz2IZ7AFbqsj80UIuFX",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:45:35.429Z",
+                "updatedAt": "2025-02-05T03:45:35.429Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 4,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "project"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "title": "Game Zone",
+                "description": "Video game discovery web app using React 18, TypeScript, Chakra UI, and Bootstrap\n",
+                "link": "https://github.com/harimerla/Game-Zone"
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "3j6hmSLlc3eyYMTMQHCJEt",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:43:53.870Z",
+                "updatedAt": "2025-02-05T03:43:53.870Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 2,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "skill"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "category": "Visualization Tools",
+                "items": [
+                    "Pandas",
+                    "Matplotlib",
+                    "Seaborn",
+                    "Tableau",
+                    "Jupyter",
+                    "Colab",
+                    "Excel"
+                ]
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "2tEewyG7WrWrsYPw0PUGBt",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:43:36.469Z",
+                "updatedAt": "2025-02-05T03:43:36.469Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 2,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "skill"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "category": "Frameworks",
+                "items": [
+                    "Langchain",
+                    "React",
+                    "Django",
+                    "Flask",
+                    "Express",
+                    "AWS",
+                    "WebGPU",
+                    "GIT"
+                ]
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "Q1ct1E4zQSm0IxMurubWb",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:43:18.256Z",
+                "updatedAt": "2025-02-05T03:43:18.256Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 2,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "skill"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "category": "UI Tools & Libraries",
+                "items": [
+                    "AG Grid",
+                    "Plotly",
+                    "Chakra UI",
+                    "Bootstrap"
+                ]
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "1KhBFkn0ot9FKuLmbAZjUF",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:43:01.325Z",
+                "updatedAt": "2025-02-05T03:43:01.325Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 3,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "skill"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "category": "Languages",
+                "items": [
+                    "Python",
+                    "PL/SQL",
+                    "JavaScript",
+                    "TypeScript",
+                    "WGSL",
+                    "HTML",
+                    "CSS"
+                ]
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "5bNdvIw7YzSZyej1SJXaBU",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:41:53.955Z",
+                "updatedAt": "2025-02-05T03:41:53.955Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 7,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "experiences"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "company": "Tata Consultancy Services",
+                "position": "Assistant Software Engineer",
+                "duration": "Sep 2019 - Mar 2021",
+                "location": "Hyderabad",
+                "responsibilities": [
+                    "Developed HR chatbot using Python, Django, and Dialogflow for 500k+ employees",
+                    "Implemented feedback mechanisms using PostgreSQL for user behavior analysis",
+                    "Created automation tool reducing bot creation time by 90%"
+                ]
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "6kg1UVCKrIEWbLqvt3PGvT",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:40:48.395Z",
+                "updatedAt": "2025-02-05T03:40:48.395Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 14,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "experiences"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "company": "Tata Consultancy Services",
+                "position": "Software Engineer",
+                "duration": "Mar 2021 - Jul 2022",
+                "location": "Hyderabad",
+                "responsibilities": [
+                    "Designed Bot classifier using SVC, TFIDF, and NLP, reducing search time by 70%",
+                    "Implemented REST API-integrated ticket system, reducing escalations by 30%",
+                    "Developed automated Python log analysis tool for production logs",
+                    "Facilitated daily stand-ups and sprint planning in Agile environment"
+                ]
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "kLIaZp2eUg018ZMzB6eSb",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:39:35.404Z",
+                "updatedAt": "2025-02-05T03:39:35.404Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 8,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "experiences"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "company": "University of Alabama at Birmingham",
+                "position": "Data Information Coordinator",
+                "duration": "Mar 2023 - Present",
+                "location": "Birmingham",
+                "responsibilities": [
+                    "Engineered the GeneTerrain visualization web application using WebGPU, TypeScript, React",
+                    "Collected and preprocessed GBM clinical cancer data, managing it in Oracle Apex database",
+                    "Utilized Google Firebase for secure authentication and real-time noSQL data storage",
+                    "Designed and implemented RESTful API using Python Flask for gene data",
+                    "Implemented deployment using docker on AWS EC2 cloud with nginx"
+                ]
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "3EHeZVRXJ8QZeQwfgq2YB2",
+                "type": "Entry",
+                "createdAt": "2025-02-05T03:30:07.755Z",
+                "updatedAt": "2025-02-05T03:30:07.755Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 8,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "personalInfo"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "name": "Hari Krishna Surya Prasad Merla",
+                "title": "Software Engineer",
+                "email": "harikrishnamerla@gmail.com",
+                "phone": "2052232595",
+                "linkedin": "https://www.linkedin.com/in/hari-merla-70b97212a/",
+                "github": "https://github.com/harimerla/"
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "7B4T7lQfEULBE5dHgiYda3",
+                "type": "Entry",
+                "createdAt": "2024-12-17T01:46:21.193Z",
+                "updatedAt": "2024-12-17T01:46:21.193Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 6,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "book"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "title": "You Don't Know JS Yet: Scope & Closures",
+                "slug": "you-dont-know-js-yet-scope-and-closures",
+                "description": {
+                    "data": {},
+                    "content": [
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "A deep dive into JavaScript's scope and closures, helping developers gain a better understanding of how JavaScript works under the hood.",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        }
+                    ],
+                    "nodeType": "document"
+                },
+                "coverImage": {
+                    "metadata": {
+                        "tags": [],
+                        "concepts": []
+                    },
+                    "sys": {
+                        "space": {
+                            "sys": {
+                                "type": "Link",
+                                "linkType": "Space",
+                                "id": "ay0wtpjewurt"
+                            }
+                        },
+                        "id": "7hOhS7KYDSG5tWzZqjiZjp",
+                        "type": "Asset",
+                        "createdAt": "2024-12-17T01:45:16.910Z",
+                        "updatedAt": "2024-12-17T01:45:16.910Z",
+                        "environment": {
+                            "sys": {
+                                "id": "master",
+                                "type": "Link",
+                                "linkType": "Environment"
+                            }
+                        },
+                        "publishedVersion": 4,
+                        "revision": 1,
+                        "locale": "en-US"
+                    },
+                    "fields": {
+                        "title": "You Don't Know JS Yet: Scope & Closures",
+                        "file": {
+                            "url": "//images.ctfassets.net/ay0wtpjewurt/7hOhS7KYDSG5tWzZqjiZjp/70da0c482f37411a17e8af401a3f0204/You_Don-t_Know_JS_Yet-_Scope___Closures.jpg",
+                            "details": {
+                                "size": 15366,
+                                "image": {
+                                    "width": 267,
+                                    "height": 400
+                                }
+                            },
+                            "fileName": "You Don-t Know JS Yet- Scope & Closures.jpg",
+                            "contentType": "image/jpeg"
+                        }
+                    }
+                },
+                "author": [
+                    "Kyle Simpson"
+                ]
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "3BPnJg1r4Hcnyp6rCCWvM",
+                "type": "Entry",
+                "createdAt": "2024-12-17T00:51:02.147Z",
+                "updatedAt": "2024-12-17T00:51:02.147Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 9,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "book"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "title": "Clean Code",
+                "slug": "clean-code",
+                "description": {
+                    "data": {},
+                    "content": [
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "marks": [],
+                                                    "value": "A guide to writing clean, maintainable, and readable code, featuring best practices and real-world examples for professional developers.",
+                                                    "nodeType": "text"
+                                                }
+                                            ],
+                                            "nodeType": "paragraph"
+                                        }
+                                    ],
+                                    "nodeType": "list-item"
+                                }
+                            ],
+                            "nodeType": "unordered-list"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        }
+                    ],
+                    "nodeType": "document"
+                },
+                "coverImage": {
+                    "metadata": {
+                        "tags": [],
+                        "concepts": []
+                    },
+                    "sys": {
+                        "space": {
+                            "sys": {
+                                "type": "Link",
+                                "linkType": "Space",
+                                "id": "ay0wtpjewurt"
+                            }
+                        },
+                        "id": "1qYpu7qD31NOoeE994Bd1g",
+                        "type": "Asset",
+                        "createdAt": "2024-12-17T00:50:26.367Z",
+                        "updatedAt": "2024-12-17T00:50:26.367Z",
+                        "environment": {
+                            "sys": {
+                                "id": "master",
+                                "type": "Link",
+                                "linkType": "Environment"
+                            }
+                        },
+                        "publishedVersion": 5,
+                        "revision": 1,
+                        "locale": "en-US"
+                    },
+                    "fields": {
+                        "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+                        "file": {
+                            "url": "//images.ctfassets.net/ay0wtpjewurt/1qYpu7qD31NOoeE994Bd1g/8a0bc881157f9094764ee4cbafffa06e/Clean_Code-A_Handbook_of_Agile_Software_Craftsmanship.jpeg",
+                            "details": {
+                                "size": 8295,
+                                "image": {
+                                    "width": 201,
+                                    "height": 251
+                                }
+                            },
+                            "fileName": "Clean Code-A Handbook of Agile Software Craftsmanship.jpeg",
+                            "contentType": "image/jpeg"
+                        }
+                    }
+                },
+                "author": [
+                    "Robert C. Martin"
+                ]
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "T8fSaEt9aLHyKg1vVygMW",
+                "type": "Entry",
+                "createdAt": "2024-12-16T21:44:14.585Z",
+                "updatedAt": "2024-12-16T21:44:14.585Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 5,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "book"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "title": "Effective Java",
+                "slug": "effective-java",
+                "description": {
+                    "data": {},
+                    "content": [
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "A comprehensive guide to best practices and techniques for programming in Java, written by a former Java platform engineer.",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        }
+                    ],
+                    "nodeType": "document"
+                },
+                "coverImage": {
+                    "metadata": {
+                        "tags": [],
+                        "concepts": []
+                    },
+                    "sys": {
+                        "space": {
+                            "sys": {
+                                "type": "Link",
+                                "linkType": "Space",
+                                "id": "ay0wtpjewurt"
+                            }
+                        },
+                        "id": "4RGTBbVBJSLkAph4pRjOfF",
+                        "type": "Asset",
+                        "createdAt": "2024-12-16T21:42:19.920Z",
+                        "updatedAt": "2024-12-16T21:42:19.920Z",
+                        "environment": {
+                            "sys": {
+                                "id": "master",
+                                "type": "Link",
+                                "linkType": "Environment"
+                            }
+                        },
+                        "publishedVersion": 2,
+                        "revision": 1,
+                        "locale": "en-US"
+                    },
+                    "fields": {
+                        "title": "Effective Java",
+                        "file": {
+                            "url": "//images.ctfassets.net/ay0wtpjewurt/4RGTBbVBJSLkAph4pRjOfF/5a1978d6994039239d4944d0c52c9b73/Effective_Java.webp",
+                            "details": {
+                                "size": 25216,
+                                "image": {
+                                    "width": 500,
+                                    "height": 638
+                                }
+                            },
+                            "fileName": "Effective Java.webp",
+                            "contentType": "image/webp"
+                        }
+                    }
+                },
+                "author": [
+                    "Joshua Bloch"
+                ]
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "7Ta1wRUHvrXgjIJegZI9T",
+                "type": "Entry",
+                "createdAt": "2024-12-16T21:43:36.380Z",
+                "updatedAt": "2024-12-16T21:43:36.380Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 5,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "book"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "title": "Python Crash Course",
+                "slug": "python-crash-course",
+                "description": {
+                    "nodeType": "document",
+                    "data": {},
+                    "content": [
+                        {
+                            "nodeType": "paragraph",
+                            "data": {},
+                            "content": [
+                                {
+                                    "nodeType": "text",
+                                    "value": "A fast-paced introduction to programming with Python, including practical projects for beginners to solidify their learning.",
+                                    "marks": [],
+                                    "data": {}
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "coverImage": {
+                    "metadata": {
+                        "tags": [],
+                        "concepts": []
+                    },
+                    "sys": {
+                        "space": {
+                            "sys": {
+                                "type": "Link",
+                                "linkType": "Space",
+                                "id": "ay0wtpjewurt"
+                            }
+                        },
+                        "id": "5BO0h0n0DHVFyjgLt2AYwy",
+                        "type": "Asset",
+                        "createdAt": "2024-12-16T21:42:19.911Z",
+                        "updatedAt": "2024-12-16T21:42:19.911Z",
+                        "environment": {
+                            "sys": {
+                                "id": "master",
+                                "type": "Link",
+                                "linkType": "Environment"
+                            }
+                        },
+                        "publishedVersion": 2,
+                        "revision": 1,
+                        "locale": "en-US"
+                    },
+                    "fields": {
+                        "title": "Python Crash Course",
+                        "file": {
+                            "url": "//images.ctfassets.net/ay0wtpjewurt/5BO0h0n0DHVFyjgLt2AYwy/1e753dc9cfbb394adb1bc586174756d7/Python_Crash_Course.jpg",
+                            "details": {
+                                "size": 254477,
+                                "image": {
+                                    "width": 1937,
+                                    "height": 2560
+                                }
+                            },
+                            "fileName": "Python Crash Course.jpg",
+                            "contentType": "image/jpeg"
+                        }
+                    }
+                },
+                "author": [
+                    "Eric Matthes"
+                ]
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "ay0wtpjewurt"
+                    }
+                },
+                "id": "5YnoEBOHgtxDE0NntSPs7I",
+                "type": "Entry",
+                "createdAt": "2024-12-16T21:42:53.138Z",
+                "updatedAt": "2024-12-16T21:42:53.138Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 7,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "book"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "title": "JavaScript: The Good Parts",
+                "slug": "javascript-the-good-parts",
+                "description": {
+                    "data": {},
+                    "content": [
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "A deep dive into the core features of JavaScript, explaining its strengths and quirks to help developers write better code.",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        }
+                    ],
+                    "nodeType": "document"
+                },
+                "coverImage": {
+                    "metadata": {
+                        "tags": [],
+                        "concepts": []
+                    },
+                    "sys": {
+                        "space": {
+                            "sys": {
+                                "type": "Link",
+                                "linkType": "Space",
+                                "id": "ay0wtpjewurt"
+                            }
+                        },
+                        "id": "3W2uvlpXjAkMomX17KzsXt",
+                        "type": "Asset",
+                        "createdAt": "2024-12-16T21:42:19.916Z",
+                        "updatedAt": "2024-12-16T21:42:19.916Z",
+                        "environment": {
+                            "sys": {
+                                "id": "master",
+                                "type": "Link",
+                                "linkType": "Environment"
+                            }
+                        },
+                        "publishedVersion": 2,
+                        "revision": 1,
+                        "locale": "en-US"
+                    },
+                    "fields": {
+                        "title": "JavaScript- The Good Parts",
+                        "file": {
+                            "url": "//images.ctfassets.net/ay0wtpjewurt/3W2uvlpXjAkMomX17KzsXt/3cad516993d5fd238a4f2dbf88dd935e/JavaScript-_The_Good_Parts.jpg",
+                            "details": {
+                                "size": 21077,
+                                "image": {
+                                    "width": 339,
+                                    "height": 445
+                                }
+                            },
+                            "fileName": "JavaScript- The Good Parts.jpg",
+                            "contentType": "image/jpeg"
+                        }
+                    }
+                },
+                "author": [
+                    "Douglas Crockford"
+                ]
+            }
+        }
+    ],
+    "includes": {
+        "Asset": [
+            {
+                "metadata": {
+                    "tags": [],
+                    "concepts": []
+                },
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "ay0wtpjewurt"
+                        }
+                    },
+                    "id": "1qYpu7qD31NOoeE994Bd1g",
+                    "type": "Asset",
+                    "createdAt": "2024-12-17T00:50:26.367Z",
+                    "updatedAt": "2024-12-17T00:50:26.367Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "publishedVersion": 5,
+                    "revision": 1,
+                    "locale": "en-US"
+                },
+                "fields": {
+                    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+                    "file": {
+                        "url": "//images.ctfassets.net/ay0wtpjewurt/1qYpu7qD31NOoeE994Bd1g/8a0bc881157f9094764ee4cbafffa06e/Clean_Code-A_Handbook_of_Agile_Software_Craftsmanship.jpeg",
+                        "details": {
+                            "size": 8295,
+                            "image": {
+                                "width": 201,
+                                "height": 251
+                            }
+                        },
+                        "fileName": "Clean Code-A Handbook of Agile Software Craftsmanship.jpeg",
+                        "contentType": "image/jpeg"
+                    }
+                }
+            },
+            {
+                "metadata": {
+                    "tags": [],
+                    "concepts": []
+                },
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "ay0wtpjewurt"
+                        }
+                    },
+                    "id": "3W2uvlpXjAkMomX17KzsXt",
+                    "type": "Asset",
+                    "createdAt": "2024-12-16T21:42:19.916Z",
+                    "updatedAt": "2024-12-16T21:42:19.916Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "publishedVersion": 2,
+                    "revision": 1,
+                    "locale": "en-US"
+                },
+                "fields": {
+                    "title": "JavaScript- The Good Parts",
+                    "file": {
+                        "url": "//images.ctfassets.net/ay0wtpjewurt/3W2uvlpXjAkMomX17KzsXt/3cad516993d5fd238a4f2dbf88dd935e/JavaScript-_The_Good_Parts.jpg",
+                        "details": {
+                            "size": 21077,
+                            "image": {
+                                "width": 339,
+                                "height": 445
+                            }
+                        },
+                        "fileName": "JavaScript- The Good Parts.jpg",
+                        "contentType": "image/jpeg"
+                    }
+                }
+            },
+            {
+                "metadata": {
+                    "tags": [],
+                    "concepts": []
+                },
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "ay0wtpjewurt"
+                        }
+                    },
+                    "id": "4RGTBbVBJSLkAph4pRjOfF",
+                    "type": "Asset",
+                    "createdAt": "2024-12-16T21:42:19.920Z",
+                    "updatedAt": "2024-12-16T21:42:19.920Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "publishedVersion": 2,
+                    "revision": 1,
+                    "locale": "en-US"
+                },
+                "fields": {
+                    "title": "Effective Java",
+                    "file": {
+                        "url": "//images.ctfassets.net/ay0wtpjewurt/4RGTBbVBJSLkAph4pRjOfF/5a1978d6994039239d4944d0c52c9b73/Effective_Java.webp",
+                        "details": {
+                            "size": 25216,
+                            "image": {
+                                "width": 500,
+                                "height": 638
+                            }
+                        },
+                        "fileName": "Effective Java.webp",
+                        "contentType": "image/webp"
+                    }
+                }
+            },
+            {
+                "metadata": {
+                    "tags": [],
+                    "concepts": []
+                },
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "ay0wtpjewurt"
+                        }
+                    },
+                    "id": "5BO0h0n0DHVFyjgLt2AYwy",
+                    "type": "Asset",
+                    "createdAt": "2024-12-16T21:42:19.911Z",
+                    "updatedAt": "2024-12-16T21:42:19.911Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "publishedVersion": 2,
+                    "revision": 1,
+                    "locale": "en-US"
+                },
+                "fields": {
+                    "title": "Python Crash Course",
+                    "file": {
+                        "url": "//images.ctfassets.net/ay0wtpjewurt/5BO0h0n0DHVFyjgLt2AYwy/1e753dc9cfbb394adb1bc586174756d7/Python_Crash_Course.jpg",
+                        "details": {
+                            "size": 254477,
+                            "image": {
+                                "width": 1937,
+                                "height": 2560
+                            }
+                        },
+                        "fileName": "Python Crash Course.jpg",
+                        "contentType": "image/jpeg"
+                    }
+                }
+            },
+            {
+                "metadata": {
+                    "tags": [],
+                    "concepts": []
+                },
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "ay0wtpjewurt"
+                        }
+                    },
+                    "id": "7hOhS7KYDSG5tWzZqjiZjp",
+                    "type": "Asset",
+                    "createdAt": "2024-12-17T01:45:16.910Z",
+                    "updatedAt": "2024-12-17T01:45:16.910Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "publishedVersion": 4,
+                    "revision": 1,
+                    "locale": "en-US"
+                },
+                "fields": {
+                    "title": "You Don't Know JS Yet: Scope & Closures",
+                    "file": {
+                        "url": "//images.ctfassets.net/ay0wtpjewurt/7hOhS7KYDSG5tWzZqjiZjp/70da0c482f37411a17e8af401a3f0204/You_Don-t_Know_JS_Yet-_Scope___Closures.jpg",
+                        "details": {
+                            "size": 15366,
+                            "image": {
+                                "width": 267,
+                                "height": 400
+                            }
+                        },
+                        "fileName": "You Don-t Know JS Yet- Scope & Closures.jpg",
+                        "contentType": "image/jpeg"
+                    }
+                }
+            }
+        ]
+    }
+}

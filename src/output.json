@@ -1,0 +1,113 @@
+{
+    "personalInfo": {
+      "name": "Hari Krishna Surya Prasad Merla",
+      "title": "Software Engineer",
+      "email": "your-email@example.com",
+      "github": "https://github.com/yourusername",
+      "linkedin": "https://linkedin.com/in/yourusername"
+    },
+    "experiences": [
+      {
+        "position": "Data Information Coordinator",
+        "company": "University of Alabama at Birmingham",
+        "location": "Birmingham",
+        "duration": "Mar 2023 - Present",
+        "responsibilities": [
+          "Engineered the GeneTerrain visualization web application using WebGPU, TypeScript, React",
+          "Collected and preprocessed GBM clinical cancer data, managing it in Oracle Apex database",
+          "Utilized Google Firebase for secure authentication and real-time noSQL data storage",
+          "Designed and implemented RESTful API using Python Flask for gene data",
+          "Implemented deployment using docker on AWS EC2 cloud with nginx"
+        ]
+      },
+      {
+        "position": "Software Engineer",
+        "company": "Tata Consultancy Services",
+        "location": "Hyderabad",
+        "duration": "Mar 2021 - Jul 2022",
+        "responsibilities": [
+          "Designed Bot classifier using SVC, TFIDF, and NLP, reducing search time by 70%",
+          "Implemented REST API-integrated ticket system, reducing escalations by 30%",
+          "Developed automated Python log analysis tool for production logs",
+          "Facilitated daily stand-ups and sprint planning in Agile environment"
+        ]
+      },
+      {
+        "position": "Assistant Software Engineer",
+        "company": "Tata Consultancy Services",
+        "location": "Hyderabad",
+        "duration": "Sep 2019 - Mar 2021",
+        "responsibilities": [
+          "Developed HR chatbot using Python, Django, and Dialogflow for 500k+ employees",
+          "Implemented feedback mechanisms using PostgreSQL for user behavior analysis",
+          "Created automation tool reducing bot creation time by 90%"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master's degree in Data Science",
+        "institution": "University of Alabama at Birmingham",
+        "location": "Birmingham, AL, US",
+        "coursework": ["Machine Learning", "Advanced Algorithms", "Database Systems", "Deep Learning"]
+      },
+      {
+        "degree": "Bachelor's degree in Computer Science Engineering",
+        "institution": "KL University",
+        "location": "Guntur, TS, India",
+        "coursework": ["C", "Data Structures", "JAVA", "Database Management"]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Language Prediction",
+        "description": "Project to predict language type using Python, Django, NLP, TFIDF and Sklearn",
+        "link": "#"
+      },
+      {
+        "title": "MovieHub",
+        "description": "Dynamic website for movie information using HTML, CSS, JavaScript, REST API and React",
+        "link": "#"
+      },
+      {
+        "title": "SavingsGuru",
+        "description": "Flask web application for analyzing user spending habits, built during UA 24-hour hackathon",
+        "link": "#"
+      },
+      {
+        "title": "Comedian ChatBot",
+        "description": "AI Assistant for humor generation using Langchain, OpenAI, Streamlit, and HuggingFace Spaces",
+        "link": "#"
+      },
+      {
+        "title": "Clinical Data Insights",
+        "description": "RAG model using Flask, React, LangChain, Firebase, and OpenAI for patient records analysis",
+        "link": "#"
+      },
+      {
+        "title": "Game Zone",
+        "description": "Video game discovery web app using React 18, TypeScript, Chakra UI, and Bootstrap",
+        "link": "#"
+      }
+    ],
+    "achievements": [
+      {
+        "description": "50-day LeetCode streak badge in 2024"
+      },
+      {
+        "description": "React Essentials certificate on LinkedIn"
+      },
+      {
+        "description": "React 18 certificate from CodeWithMosh"
+      },
+      {
+        "description": "Best Team Award at TCS in 2020"
+      },
+      {
+        "description": "Won weekly data analysis hackathon at TCS"
+      },
+      {
+        "description": "Presented GeneTerrain WebGPU poster at CCTS Symposium 2023 in Biloxi"
+      }
+    ]
+  }
